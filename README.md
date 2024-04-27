@@ -71,7 +71,7 @@ The system provides various functionalities based on user roles:
 
 ## Authors & Acknowledgments
 
-- A shoutout to all [contributors](https://github.com/ZhaoQixian,https://github.com/ZhaoQixian) who have invested their efforts into this project.
+- A shoutout to [Zhao Qixian](https://github.com/ZhaoQixian), [Your Name](Your Github homepage link),  who have invested their efforts into this project.
 
 ## License
 
