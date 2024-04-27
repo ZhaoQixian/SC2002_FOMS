@@ -22,7 +22,7 @@ Ensure you have Java Runtime Environment (JRE) installed on your system.
 
 Clone the repository using the following command:
 ```sh
-git clone [repository_link]
+git clone https://github.com/ZhaoQixian/SC2002_FOMS
 ```
 
 Navigate to the project directory:
@@ -50,21 +50,24 @@ The system provides various functionalities based on user roles:
 - Complete payments using preferred payment methods
 - Track and collect orders
 
-### Staff and Managers
+### Staff  
 
 - Process and update order statuses
+- Complete and update order statuses
+
+### Managers
+
+- Process and update order statuses
+- Complete and update order statuses
 - Manage menu items and inventory
-- Handle staff assignments and role management
+- Oversee staff within the branch
 
 ### Administrators
 
 - Oversee staff across different roles
 - Manage and expand branch operations
 - Assign staff to managerial roles and manage quotas
-
-## Error Handling
-
-The application includes comprehensive error handling to ensure reliability and robust user input validation.
+- Manage and expand payment methods
 
 ## Authors & Acknowledgments
 
@@ -73,7 +76,3 @@ The application includes comprehensive error handling to ensure reliability and 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Simply replace `[repository_link]` and `[contributors_link]` with the actual URLs pertaining to your project. Adjust the `CONTRIBUTING.md` and `LICENSE.md` based on your project's contribution guidelines and chosen license.
