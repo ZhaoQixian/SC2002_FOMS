@@ -70,8 +70,14 @@ The system provides various functionalities based on user roles:
 - Manage and expand payment methods
 
 ## Authors & Acknowledgments
+| Team Member | Email |
+| ------------- | ------------- |
+|Allen Lu Zhao Quan|ALLE0002@e.ntu.edu.sg|
+|Guan Xiaoxi|xguan007@e.ntu.edu.sg|
+|Kriti Raja|kriti006@e.ntu.edu.sg|
+|Yu Fengyuan|fyu002@e.ntu.edu.sg|
+|[Zhao Qixian](https://github.com/ZhaoQixian)|qzhao010@e.ntu.edu.sg|
 
-- A shoutout to [Zhao Qixian](https://github.com/ZhaoQixian), [Your Name](Your Github homepage link),  who have invested their efforts into this project.
 
 ## License
 
